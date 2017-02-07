@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263118065959",
+    "project_id": "euphoric-fusion-154210"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263118065959:android:7a8dd8c23b40431f",
+        "android_client_info": {
+          "package_name": "com.example.admin.gsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263118065959-mpma8u9gqv5cpnegu2goiiil8dh0gn43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.gsignin",
+            "certificate_hash": "3C20C72D4C915CA1C1D41AF6C1474FEEC195FBD9"
+          }
+        },
+        {
+          "client_id": "263118065959-ng59ji927arsm48u0l0rhls5jq874sik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWpBHauyzD18fkoGIVCINvME8q2rDYLA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
